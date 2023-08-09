@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding:0;
+}
+
+body 
+{
+    height: 100%;/**/
+    width: 100%;
+    box-sizing: content-box;
+    background-color: #0a2239;
+    color: #5C8FAB;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+strong
+{
+    color: #24a4e0;
+
+}
+
+button {
+    background: #68a9cb;
+    margin: 20px 100px; /*primeira eh cima/baixo, segunda eh direita/esquerda*/
+    font-size: xx-large;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+a{
+    color:#ffffff;
+    text-decoration-line: none;
+}
+.apresentacao
+{
+    display:flex;
+    align-items: center;
+}
